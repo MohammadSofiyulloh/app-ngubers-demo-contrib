@@ -16,7 +16,7 @@ function Signup() {
                     <input
                       type="text"
                       className="form-control m-0 block w-full rounded border border-solid border-gray-300 bg-white bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-700 transition ease-in-out focus:border-blue-600 focus:bg-white focus:text-gray-700 focus:outline-none"
-                      id="exampleFormControlInput1"
+                      id="email"
                       placeholder="Email"
                     ></input>
                   </div>
@@ -25,7 +25,7 @@ function Signup() {
                     <input
                       type="text"
                       className="form-control m-0 block w-full rounded border border-solid border-gray-300 bg-white bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-700 transition ease-in-out focus:border-blue-600 focus:bg-white focus:text-gray-700 focus:outline-none"
-                      id="exampleFormControlInput1"
+                      id="nohp"
                       placeholder="Nomor Hp"
                     ></input>
                   </div>
@@ -34,7 +34,7 @@ function Signup() {
                     <input
                       type="text"
                       className="form-control m-0 block w-full rounded border border-solid border-gray-300 bg-white bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-700 transition ease-in-out focus:border-blue-600 focus:bg-white focus:text-gray-700 focus:outline-none"
-                      id="exampleFormControlInput1"
+                      id="password"
                       placeholder="Password"
                     ></input>
                   </div>
@@ -43,7 +43,7 @@ function Signup() {
                     <input
                       type="text"
                       className="form-control m-0 block w-full rounded border border-solid border-gray-300 bg-white bg-clip-padding px-3 py-1.5 text-base font-normal text-gray-700 transition ease-in-out focus:border-blue-600 focus:bg-white focus:text-gray-700 focus:outline-none"
-                      id="exampleFormControlInput1"
+                      id="password"
                       placeholder="Re-Enter Password"
                     ></input>
                   </div>

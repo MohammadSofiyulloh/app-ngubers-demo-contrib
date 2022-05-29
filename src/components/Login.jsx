@@ -4,7 +4,7 @@ import motor2 from './assets/motor2.png';
 function Login() {
   return (
     <div id="login" className="w-full h-full bg-zinc-200 flex flex-col justify-between">
-      <div className="g-6 flex h-full flex-wrap items-center justify-center text-gray-800">
+      <div className="g-6 flex h-screen flex-wrap items-center justify-center text-gray-800">
         <div className="xl:w-10/12">
           <div className="g-0 lg:flex lg:flex-wrap">
             <div className="px-4 md:px-0 lg:w-6/12">

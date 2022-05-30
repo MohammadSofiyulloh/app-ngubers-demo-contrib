@@ -10,7 +10,7 @@ function GoRide() {
           </div>
           <div className="flex w-1/2 flex-col justify-between py-4 lg:flex-row lg:py-0">
             <div className="flex flex-col lg:flex-row">
-              <h1 className="text-green block px-4 py-3 text-3xl font-bold text-green-400 hover:text-green-700 lg:py-3">GoCar</h1>
+              <h1 className="text-green block px-4 py-3 text-3xl font-bold text-green-400 hover:text-green-700 lg:py-3">GoRide</h1>
             </div>
           </div>
         </div>

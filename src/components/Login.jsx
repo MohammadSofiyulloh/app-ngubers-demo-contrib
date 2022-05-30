@@ -1,6 +1,5 @@
 import React from 'react';
 import motor2 from './assets/motor2.png';
-import { Link } from 'react-router-dom';
 
 function Login() {
   return (

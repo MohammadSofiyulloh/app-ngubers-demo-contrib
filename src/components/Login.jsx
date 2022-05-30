@@ -31,13 +31,12 @@ function Login() {
                   </div>
 
                   <div className="mb-12 pt-1 pb-1 text-center">
-                    <Link
-                      to="/gocar"
+                    <button
                       className="mb-3 inline-block w-full rounded px-6 py-2.5 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out bg-green-500 hover:bg-blue-700 hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
                       type="button"
                     >
                       Login
-                    </Link>
+                    </button>
                   </div>
                 </form>
               </div>
